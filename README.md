@@ -6,26 +6,43 @@ I'm a Software Developer with a PhD in Marketing (Focus Statistics and Data Anal
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkshoxx&hide=AutoHotKey&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-* Programming Languages:
-  * ★★★★★ Python   <details>
+### Languages:
+<ul>
+    <img src="images/pylogo1.png" title="yahoo" width="5%" height="5%"></img>  <img src="images/R_logo.png" title="yahoo" width="5%" height="5%"></img>  <img src="images/tex.png" title="yahoo" width="5%" height="5%"></img>  
+  <li> ★★★★★ Python  <details>
     <summary><i>Python-specific Frameworks and Libraries</i></summary>
     <ul>
-    <li> Pytest (Mocking, Coverage, Linting)
-    <li> NetworkX
-    <li> Windows API (win32)
-    <li> tkinter
-    <li> Matplotlib, Pandas, Numpy
-    <li> Json, XML, Yaml
-    <li> Pil(low), CV2, pytesseract
-    <li> Asyncio, Aiohttp, threading
+    <img src="images/networkx.png" title="yahoo" width="5%" height="5%"></img> 
+    <img src="images/win32.png" title="yahoo" width="10%" height="10%"></img>
+    <img src="images/tkinter.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/mpl.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/pandas.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/numpy.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/pil.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/ocv.png" title="yahoo" width="5%" height="5%"></img>
+    <li> NetworkX 
+    <li> Windows API
+    <li> tkinter 
+    <li> Matplotlib 
+    <li> Pandas 
+    <li> Numpy 
+    <li> Pillow 
+    <li> CV2 
+    <li> Asyncio, threading
     </ul>
     </details>
-  * ★★★★☆ R 
-  * ★★★★☆ LaTeX
-
+  <li> ★★★★☆ R 
+  <li> ★★★★☆ LaTeX 
+</ul>
   <details>
     <summary><i>Webstack</i></summary>
     <ul>
+    <img src="images/html.png" title="yahoo" width="5%" height="5%"></img> 
+    <img src="images/css.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/javascript.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/react.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/npm.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/node.png" title="yahoo" width="5%" height="5%"></img>
     <li> ★★★★☆ HTML
     <li> ★★★☆☆ CSS
     <li> ★★☆☆☆ JS / ECMAS
@@ -38,29 +55,44 @@ I'm a Software Developer with a PhD in Marketing (Focus Statistics and Data Anal
   <details>
     <summary><i>Other Langauges I've used</i></summary>
     <ul>
+    <img src="images/bash.png" title="yahoo" width="5%" height="5%"></img> 
+    <img src="images/ps.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/arduino.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/java.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/processing.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/c.png" title="yahoo" width="5%" height="5%"></img> 
+    <img src="images/cpp.png" title="yahoo" width="5%" height="5%"></img> 
+    <img src="images/mysql.svg" title="yahoo" width="5%" height="5%"></img> 
+    <img src="images/fortran.png" title="yahoo" width="5%" height="5%"></img> 
+    <img src="images/php.png" title="yahoo" width="5%" height="5%"></img> 
     <li> ★★★☆☆ Unix- and Microsoft-based shells
     <li> ★★☆☆☆ Arduino
     <li> ★★☆☆☆ Assembly, <a href="https://eater.net">Ben Eater Design</a>
     <li> ★★☆☆☆ Java / Processing
-    <li> ★☆☆☆☆ C / C++
+    <li> ★☆☆☆☆ C / C++  
     <li> ★☆☆☆☆ SQL / Databases
     <li> ★☆☆☆☆ Fortran
     <li> ★☆☆☆☆ PHP
-    <li> ★☆☆☆☆ Prolog
     </ul>
-    </details>
-* Frameworks / Libraries: 
-  * GitLab Pipelines / Github Actions
-  * pre-commit, tox
-  * docker including dind and docker-compose
-  * AWS
-* Soft Skills: 
-  * Problem-Solving - core skill of every mathematician
-  * Dependable - especially managing deadlines
-  * Team-Player - in managing, collaborating and instructing
-  * Interpersonal communications - because not everyone's an expert
-  * Interdisciplinary communications - because not all experts speak the same language
-  * Creative - coming up with multiple solutions and choosing the right one
+   </details>
+     <details>
+    <summary><i>Frameworks / Libraries:</i></summary>
+ 
+  <ul>
+    <img src="images/gitlab.png" title="yahoo" width="5%" height="5%"></img> 
+    <img src="images/github.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/pre-commit.svg" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/tox.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/docker.png" title="yahoo" width="5%" height="5%"></img>
+    <img src="images/dockercomp.png" title="yahoo" width="5%" height="5%"></img> 
+    <img src="images/aws.webp" title="yahoo" width="5%" height="5%"></img> 
+
+  <li> GitLab Pipelines / Github Actions
+  <li> pre-commit, tox
+  <li> docker including dind and docker-compose
+  <li> AWS
+  </ul>
+     </details>
 
 ## Current Focus
 
